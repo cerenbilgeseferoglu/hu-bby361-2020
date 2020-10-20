@@ -1,0 +1,27 @@
+1. Hayata geçirilecek sistem neye hizmet edicek ?
+Ekoloji davalarını üstlenen bir hukuk bürosunun kütüphanesine ait bilgiler bulunduracak. 
+
+2. Veri tabanı hangi ihtiyaçları karşılayacaktır?
+Kitaplar hakkında bilgi almaya ve kitapların stok bilgisinin sorgulanmasına yarayacaktır.
+
+3. Veri tabanında hangi veriler depolanacaktır?
+Yazara ait veriler, Esere ait veriler ve yayınevi verileri depolanacaktır.
+
+4. Veri tabanında ne tür veriler depolanacaktır?
+
+Esere ait olarak;
+a. ISBN
+b. Eser adı
+c. Kitaba ait, kütüphane tarafından atanmış demirbaş no
+d. Kitabın fiziki özellikleri 
+e.Kitabın dili
+
+Yazara ait olarak,
+a.Yazar adı, Soyadı
+
+Yayınevine ait olarak,
+a. Yayınevi
+b. Yayın yeri bilgisi
+c. Yayın tarihi
+
+ 
